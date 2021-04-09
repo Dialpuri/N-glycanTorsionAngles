@@ -62,5 +62,4 @@ ccp4-python auto_v1.3.1.py
 See Code Explanation.pdf for informal explanation of the code
 
 ## Data Splitting
-The initial data was organised by RSCC > 0.8 and diagnostically yes and split into 20 chunks
-
+The initial data was organised by RSCC > 0.8 and diagnostically yes and split into 20 chunks using files inside the Data Splitting folder
