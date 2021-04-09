@@ -2,6 +2,9 @@
 
 Understanding common torsion angles in N-glycans is important in the correct modelling of structures from experimental data. These scripts allow torsion angles data collection to be automated using [Privateer](http://legacy.ccp4.ac.uk/html/privateer.html).
 
+## Data
+The data, both raw and calculated is available from [here](https://drive.google.com/drive/folders/1vUMD7k50AcrIeOBhN2oZg_b-LH9Ea-qB?usp=sharing)
+
 ## Version History
 
 ### Possible Sugar Connections
@@ -57,4 +60,7 @@ ccp4-python auto_v1.3.1.py
 
 ## Explanation 
 See Code Explanation.pdf for informal explanation of the code
+
+## Data Splitting
+The initial data was organised by RSCC > 0.8 and diagnostically yes and split into 20 chunks
 
