@@ -54,5 +54,5 @@ ccp4-python auto_v1.3.1.py
 ```
 
 ## Explanation 
-See CodeExplanation.pdf for informal explanation of the code
+See Code Explanation.pdf for informal explanation of the code
 
