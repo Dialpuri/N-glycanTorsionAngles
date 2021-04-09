@@ -41,7 +41,7 @@ To run the latest script (1.3.1), you will need the following libraries installe
 * Privateer
   * Installation instructions [here](https://github.com/glycojones/privateer)
   * Or included as part of [CCP4](https://www.ccp4.ac.uk/)
-* Biopython
+* Biopython (Version <= 1.7.6)
 * Pandas
 
 using the following code in the CCP4 console:
