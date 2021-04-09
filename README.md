@@ -46,6 +46,8 @@ using the following code in the CCP4 console:
 pip install biopython
 pip install pandas
 ```
+Replace the privateer.py file in C:\CCP4-7\7.1\Lib\py2 with the one here
+
 ## Usage
 
 From the CCP4-Console run:
