@@ -2,7 +2,7 @@
 
 Understanding common torsion angles in N-glycans is important in the correct modelling of structures from experimental data. These scripts allow torsion angles data collection to be automated using [Privateer](http://legacy.ccp4.ac.uk/html/privateer.html).
 
-![Torsion Angles](./TorsionAngles.jpg)
+![Torsion Angles](https://github.com/Dialpuri/N-glycanTorsionAngles/blob/269acd1259f91895f2b1bf4646da6b126afe55d8/TorsionAngles.png)
 
 ## Data
 The data, both raw and calculated is available from [here](https://drive.google.com/drive/folders/1vUMD7k50AcrIeOBhN2oZg_b-LH9Ea-qB?usp=sharing)
