@@ -1,4 +1,4 @@
-# Computing Torsion Angles for N-glycan
+# Computing Torsion Angles for N-glycans
 
 Understanding common torsion angles in N-glycans is important in the correct modelling of structures from experimental data. These scripts allow torsion angles data collection to be automated using [Privateer](http://legacy.ccp4.ac.uk/html/privateer.html).
 
