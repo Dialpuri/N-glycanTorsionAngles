@@ -4,7 +4,7 @@ Understanding common torsion angles in N-glycans is important in the correct mod
 
 ![Torsion Angles](https://github.com/Dialpuri/N-glycanTorsionAngles/blob/269acd1259f91895f2b1bf4646da6b126afe55d8/TorsionAngles.png)
 
-(Image From: https://doi.org/10.1107/s2059798316016910)
+(Image From: J. Agirre https://doi.org/10.1107/s2059798316016910)
 ## Data
 The data, both raw and calculated is available from [here](https://drive.google.com/drive/folders/1vUMD7k50AcrIeOBhN2oZg_b-LH9Ea-qB?usp=sharing)
 
